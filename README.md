@@ -1,11 +1,11 @@
-# 🧩 Coding Test Solutions
+# Coding Test Solutions
 
 This repository contains my coding test solutions.  
 I solve problems from various platforms such as Programmers, and LeetCode.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```
 📦 repository-root
 ┣ 📂 programmers
@@ -20,7 +20,7 @@ I solve problems from various platforms such as Programmers, and LeetCode.
 
 ---
 
-## 📝 Problem List
+## Problem List
 
 | Platform | Problem ID / Name | Difficulty | Problem Link | Solution Link |
 |----------|-------------------|------------|--------------|---------------|
@@ -29,7 +29,7 @@ I solve problems from various platforms such as Programmers, and LeetCode.
 
 ---
 
-## 🚀 Commit Rules
+## Commit Rules
 - `feat:` Add a new problem solution
 - `refactor:` Improve an existing solution
 - `docs:` Update documentation such as README
@@ -44,7 +44,7 @@ refactor: Optimize Programmers	Number String and Words with faster I/O
 
 ---
 
-## 📌 Goals
+## Goals
 - Solve at least one problem every day
 - Review and improve solutions after solving
 - No perfectionism — just solve it
